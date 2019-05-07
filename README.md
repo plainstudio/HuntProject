@@ -1,5 +1,5 @@
 # HuntingProject
-네트워크 기능이 가능한 전자메뉴판 팀플 프로젝트_ 담당업무 : (유저) 로그인 / (관리자) 매출통계
+네트워크 기능이 가능한 전자메뉴판 팀플 프로젝트_ 담당업무 : (유저) 로그인 / (관리자) 매출통계 / DB
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM3/MDAxNTU3MjUxMjg5NTI4.svSSHITfRlSXZV-Ci1b_mVsuRhqbuFYEOSMx55laMyYg.NBINn4wgnEDujw6uouHTOfzG81IZyxc6m9CtFNtZelEg.PNG.kwjing93/HUNTING1.png?type=w966">
 
