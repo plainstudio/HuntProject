@@ -29,9 +29,10 @@
 3) 입장자 정보등록     4) 메뉴판 메인 화면
 
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTMx/MDAxNTU3MzIxOTIxMDk4.vyGbaO1N1xWXRgJdYCu2tPbGDgfAu7YL9N4zp8Kp4MAg.kjfbhFM6SwzKp5PrBv8sKqXZuezQA2lVX_2mJjNNs_4g.PNG.kwjing93/HUNTING4-1.png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTE3/MDAxNTU3MzIyMzQwMjg2.rWGLjdAVXd_cc_3IpZSF4SrkF07Tyu071GqodvKdZUsg.J9WI2opXO_0iIdlkVF1zQd5AfvAPldFseMy93Lmbqckg.PNG.kwjing93/HUNTING4.png?type=w966">
 << 3 유저_주문서 >>
-1) 유저- 주문서  
+유저- 주문서 
+[ 처리 ] 
 - getter, setter 메서드를 통해 객체의 값을 스윙과 DB 사이에서 주고 받음
 
 
