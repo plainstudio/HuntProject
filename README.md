@@ -19,18 +19,19 @@
 - 바인드 변수를 사용해 쿼리문 작성
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzAxNjEw.qRSOi3aqPdMNblcHspyiLRoYcKR5dlwHzeVzQwbsLvMg.UpCzqJbaQUlFFKyY8WMd2byNVCWj_bJMgt836tNn-QAg.PNG.kwjing93/HUNTING3-1.png?type=w966">
-1)회원가입           2)로그인
+1)회원가입                                                                    2)로그인
 
 << 2 유저_로그인 및 회원가입 >>
 
 1)( 유저- 회원가입 ) 
 - 전화번호 중복 검사 처리
+
 2)( 유저- 로그인 )
 - JPasswordField 컴포넌트 사용한 로그인 처리
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzA2ODc1.EUoXqq5Wq2TVVmwFlPvMZ-Yqnx6M4wFZuGhEG4Yb4bog.RNqw2-ziSqo58fL0kJ97CeuTKchll4cChHALzOWapVwg.PNG.kwjing93/HUNTING3-2.png?type=w966">
-3)입장자 정보등록     4)메뉴판 메인 화면
+3)입장자 정보등록                                                              4)메뉴판 메인 화면
 
 3)( 유저- 입장자 정보 등록 ) 
 - 유저 객체(DTO)의 생성 및 Setter 메서드를 통한 값 주입
