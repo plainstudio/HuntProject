@@ -23,15 +23,15 @@
 [ 공통_처리 ]
 - String 처리 기능을 모아놓은 StringUtil 클래스를 정의하여 String 편집
 
-  1) 회원가입     2) 로그인
-2) ( 유저- 로그인 ) - 아이디 중복 검사 처리
+1)회원가입     2)로그인
+2)( 유저- 로그인 ) - 아이디 중복 검사 처리
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzA2ODc1.EUoXqq5Wq2TVVmwFlPvMZ-Yqnx6M4wFZuGhEG4Yb4bog.RNqw2-ziSqo58fL0kJ97CeuTKchll4cChHALzOWapVwg.PNG.kwjing93/HUNTING3-2.png?type=w966">
 
 << 2 유저_로그인 및 회원가입 >>  
 
-  3)입장자 정보등록     4) 메뉴판 메인 화면
+3)입장자 정보등록     4)메뉴판 메인 화면
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTE3/MDAxNTU3MzIyMzQwMjg2.rWGLjdAVXd_cc_3IpZSF4SrkF07Tyu071GqodvKdZUsg.J9WI2opXO_0iIdlkVF1zQd5AfvAPldFseMy93Lmbqckg.PNG.kwjing93/HUNTING4.png?type=w966">
