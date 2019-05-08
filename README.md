@@ -19,8 +19,6 @@
 - 바인드 변수를 사용해 쿼리문 작성
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzAxNjEw.qRSOi3aqPdMNblcHspyiLRoYcKR5dlwHzeVzQwbsLvMg.UpCzqJbaQUlFFKyY8WMd2byNVCWj_bJMgt836tNn-QAg.PNG.kwjing93/HUNTING3-1.png?type=w966">
-1)회원가입                                                                    2)로그인
-
 << 2 유저_로그인 및 회원가입 >>
 
 1)( 유저- 회원가입 ) 
@@ -31,12 +29,11 @@
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzA2ODc1.EUoXqq5Wq2TVVmwFlPvMZ-Yqnx6M4wFZuGhEG4Yb4bog.RNqw2-ziSqo58fL0kJ97CeuTKchll4cChHALzOWapVwg.PNG.kwjing93/HUNTING3-2.png?type=w966">
-3)입장자 정보등록                                                              4)메뉴판 메인 화면
 
 3)( 유저- 입장자 정보 등록 ) 
 - 유저 객체(DTO)의 생성 및 Setter 메서드를 통한 값 주입
 
-4)( 유저- 메인화면)
+4)( 유저- 메뉴판 메인화면)
 - JButton 클릭시 새창을 띄우지 않고 화면 전환
 
 
