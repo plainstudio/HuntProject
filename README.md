@@ -4,18 +4,18 @@
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM3/MDAxNTU3MjUxMjg5NTI4.svSSHITfRlSXZV-Ci1b_mVsuRhqbuFYEOSMx55laMyYg.NBINn4wgnEDujw6uouHTOfzG81IZyxc6m9CtFNtZelEg.PNG.kwjing93/HUNTING1.png?type=w966">
 
 [ 공통_디자인 ]
-- java awt swing api 적용
-- layoutmanager를 이용한 컴포넌트 배치
+- Java AWT Swing 컴포넌트의 사용
+- LayoutManager 이용한 UI 컴포넌트 배치
 
 [ 공통_컴포넌트 ]
-- String 관련 공통 처리를 위한 StringUtil 클래스 정의
+- String 처리 기능을 모아놓은 StringUtil 클래스 정의
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfOTEg/MDAxNTU3MjUxNDY2MDQ3.jZUwC4FQIzjOcW5bb442e4fOU-jWh-sjMYv4S0JfHXIg.4HLL684yEpE637Yl_th9_laUqquDv8xDj63_TidCU-Ag.PNG.kwjing93/HUNTING2.png?type=w966">
 
 << 1 데이터베이스 설계 >>
 
 [ DB ]
-- ConnectionManager 클래스를 정의하여 db연결, 접속객체 획득, 반납 처리
+- ConnectionManager 클래스를 정의하여 DB연결, 접속객체 획득, 반납 처리
 - 바인드 변수를 적용한 DML 작성
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzAxNjEw.qRSOi3aqPdMNblcHspyiLRoYcKR5dlwHzeVzQwbsLvMg.UpCzqJbaQUlFFKyY8WMd2byNVCWj_bJMgt836tNn-QAg.PNG.kwjing93/HUNTING3-1.png?type=w966">
@@ -27,10 +27,10 @@
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzA2ODc1.EUoXqq5Wq2TVVmwFlPvMZ-Yqnx6M4wFZuGhEG4Yb4bog.RNqw2-ziSqo58fL0kJ97CeuTKchll4cChHALzOWapVwg.PNG.kwjing93/HUNTING3-2.png?type=w966">
 
 3)( 유저- 입장자 정보 등록 ) 
-- 유저 입장시 유저정보를 userVO, guestVO에 보관
+- 유저 입장시 유저정보를 UserVO, GuestVO에 보관
 
 4)( 유저- 메뉴판 메인화면)
-- Jpanel을 이용한 화면전환 처리
+- JPanel을 이용한 화면전환 처리
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTE3/MDAxNTU3MzIyMzQwMjg2.rWGLjdAVXd_cc_3IpZSF4SrkF07Tyu071GqodvKdZUsg.J9WI2opXO_0iIdlkVF1zQd5AfvAPldFseMy93Lmbqckg.PNG.kwjing93/HUNTING4.png?type=w966">
@@ -38,8 +38,8 @@
 << 3 유저_주문서 >>
 
 [ 처리 ] 
-- jtablemodel을 이용한 oracle 데이터베이스(model)와 디자인 영역(view)의 분리
-- sum 집계함수를 이용해 주문금액 산출
+- JTableModel을 이용한 Oracle 데이터베이스(Model)와 디자인 영역(View)의 분리
+- SUM 집계함수를 이용해 주문금액 산출
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTYg/MDAxNTU3MjUxNDcwNTQy.Ot1dzc_ub7TnZraTjgUgtRU4lxB9vATijT0vDfP0Ry8g.opnq1OIyBFYF3ekJ42bcts-MGbpCFvD7-GjMCTJrRqwg.PNG.kwjing93/HUNTING5.png?type=w966">
@@ -47,7 +47,7 @@
 << 4 관리자_매출통계 >>
 
 [ 처리 ]
-- tablemodel interface를 구현한 AbstractTableModel 클래스 사용
-- 특정 조건 ( like 를 이용해 검색 )으로 1차 필터링 후 총 매출을 구하는 쿼리문 작성
-- 서브 쿼리, join문을 활용한 매출통계
+- TableModel Interface를 구현한 AbstractTableModel 클래스 사용
+- 특정 조건 ( Like 를 이용해 검색 )으로 1차 필터링 후 총 매출을 구하는 쿼리문 작성
+- 서브 쿼리, Join문을 활용한 매출통계
 
