@@ -16,7 +16,7 @@
 - ConnectionManager 클래스를 정의하여 DB연결, 접속객체 획득, 반납 처리
 - 바인드 변수를 적용한 DML 작성
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzAxNjEw.qRSOi3aqPdMNblcHspyiLRoYcKR5dlwHzeVzQwbsLvMg.UpCzqJbaQUlFFKyY8WMd2byNVCWj_bJMgt836tNn-QAg.PNG.kwjing93/HUNTING3-1.png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMjk3/MDAxNTU3NjQ2MjQ2NDU5.PW4A-xkUzXBJl6AJ9BxqmYU2VoU9-WgwYodtd6qzUUYg.GiKbiACP9fEJV5Tbq_eYL8XWVhMXEDqXrHmhUahIcIQg.PNG.kwjing93/HUNTING3-1(0512).png?type=w966">
 
 [ 유저_로그인, 회원가입 ]
 - (1) 입력양식의 유효성 체크
