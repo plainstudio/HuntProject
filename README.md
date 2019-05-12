@@ -17,9 +17,8 @@
 - 바인드 변수를 적용한 DML 작성
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzAxNjEw.qRSOi3aqPdMNblcHspyiLRoYcKR5dlwHzeVzQwbsLvMg.UpCzqJbaQUlFFKyY8WMd2byNVCWj_bJMgt836tNn-QAg.PNG.kwjing93/HUNTING3-1.png?type=w966">
-<< 2 유저_로그인 및 회원가입 >>
 
-1) 로그인, 회원가입 
+[ 유저_로그인, 회원가입, 입장자 등록 ]
 - (1) 입력양식의 유효성 체크
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzA2ODc1.EUoXqq5Wq2TVVmwFlPvMZ-Yqnx6M4wFZuGhEG4Yb4bog.RNqw2-ziSqo58fL0kJ97CeuTKchll4cChHALzOWapVwg.PNG.kwjing93/HUNTING3-2.png?type=w966">
