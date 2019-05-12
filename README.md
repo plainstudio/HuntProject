@@ -39,7 +39,9 @@
 - (2) SUM 집계함수를 이용해 주문금액 산출
 
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMTUy/MDAxNTU3NjQ2MjU3Mjk3.IFoWEJO1SS0QrzbZ9HH4QvLjB1RbcNWsbvqCmQmvZK8g.elLEnupPsi-9Mfcu2Qa4I5uUWEcCxGxvd9dS7l7D9wMg.PNG.kwjing93/HUNTING5(0512).png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMSAg/MDAxNTU3NjQ2NzUyNTgw.iGEU9CjEyiwVGMJWgkYZGnB0iRMsGwiGgG_x_iLbF7sg.faqgK55O3M3iXXcU04h2vnMPLEKa6wRxplpWbE9HoLAg.PNG.kwjing93/HUNTING5(0512).png?type=w966">
+
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMTk4/MDAxNTU3NjQ2NzU1ODM3.qvtsr5MkJYM8C6mSGob2KgdglDJDatCnhAZlgsHro7gg.vzIK6XkutLClt0N2A9JOqcH-LoWNoIzB9-ATMW9IV4Qg.PNG.kwjing93/HUNTING5-2(0512).png?type=w966">
 
 [ 관리자_매출 통계 ]
 - (1) TableModel Interface를 구현한 AbstractTableModel 클래스 사용
