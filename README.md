@@ -18,15 +18,15 @@
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzAxNjEw.qRSOi3aqPdMNblcHspyiLRoYcKR5dlwHzeVzQwbsLvMg.UpCzqJbaQUlFFKyY8WMd2byNVCWj_bJMgt836tNn-QAg.PNG.kwjing93/HUNTING3-1.png?type=w966">
 
-[ 유저_로그인, 회원가입, 입장자 등록 ]
+[ 유저_로그인, 회원가입 ]
 - (1) 입력양식의 유효성 체크
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM1/MDAxNTU3MzIxMzA2ODc1.EUoXqq5Wq2TVVmwFlPvMZ-Yqnx6M4wFZuGhEG4Yb4bog.RNqw2-ziSqo58fL0kJ97CeuTKchll4cChHALzOWapVwg.PNG.kwjing93/HUNTING3-2.png?type=w966">
 
-3) 입장자 정보 등록 
+[ 유저_입장자 정보 등록 ]
 - (2) 유저 입장시 유저정보를 UserVO, GuestVO에 보관
 
-4) 메뉴판 메인화면
+[ 유저_메뉴판 메인 화면 ]
 - (3) JPanel을 이용한 화면전환 처리
 
 
